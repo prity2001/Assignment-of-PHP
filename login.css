@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to right, rgba(27, 163, 213, 0), rgb(20, 116, 194));
+  }
+  .col-lg-3{
+    border-radius: 10px;
+  }
+  h2{
+    font-family: Georgia, serif;
+  }
+  .btn{
+    width: 80%;
+  }
+  input{
+    width:80%;
+   
+  }
+  a{
+    text-decoration: none;
+  }
+  .error {
+    color: #FF0000;
+}
+.submit{
+    background-color: aquamarine;
+    margin-bottom: 30px;
+}
